@@ -1,0 +1,4 @@
+[client-syslog]
+client = yes
+accept = 0.0.0.0:10514
+connect = syslog:10514
